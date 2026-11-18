@@ -27,7 +27,7 @@ nav {
   top: 0; width: 100%;
   display: flex; justify-content: space-between; align-items: center;
   padding: 1rem 2rem;
-  background: rgba(15, 23, 42, 0.8);
+  background: var(--bg);
   backdrop-filter: blur(8px);
   z-index: 100;
 }
